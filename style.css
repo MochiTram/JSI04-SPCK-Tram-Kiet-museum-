@@ -69,3 +69,15 @@ body {
     list-style-type: none;
     color: #A79277;
 }
+/* SLIDESHOW */
+.slideshow {
+    display: block;
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .mySlides {
+    width: 100vw;
+  }
