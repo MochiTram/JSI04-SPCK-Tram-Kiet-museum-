@@ -58,14 +58,36 @@ body {
     right: 0;
 }
 
+#rightnav ul,
+#leftnav ul {
+    list-style-type: none;
+    display: flex;
+    padding: 7px;
+}
+
 #rightnav ul li a,
 #leftnav ul li a {
-    list-style-type: none;
-    color: #D8C4B6;
+    margin: 5px;
+    padding: 10px;
+    color: #b2ac82;
+    font-size: 35px;
 }
 
 #rightnav ul li a:hover,
-#leftnav ul li a:hover {
+#leftnav ul li a:hover,
+#leftnav ul li a svg:hover  {
     list-style-type: none;
-    color: #A79277;
+    color: #8f774b;
+    fill: #8f774b;
+}
+
+#navbar h1{
+    font-family: 'Gladriel', sans-serif;
+    text-align: center;
+    color: #c8c69a;
+    font-size: 60px;
+    position: absolute;
+    left: 470px;
+    top: 10px;
+    margin: 0;
 }
