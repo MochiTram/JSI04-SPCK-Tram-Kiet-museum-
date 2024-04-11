@@ -74,10 +74,7 @@ body {
     display: block;
     position: relative;
     width: 100%;
-    max-width: 600px;
+    height: 800px;
     margin: 0 auto;
     overflow: hidden;
-  }
-  .mySlides {
-    width: 100vw;
-  }
+}
