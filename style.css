@@ -25,7 +25,8 @@ body {
     width: 90%;
 }
 
-#navbar {
+#navbar,
+#footer {
     height: 50px;
     display: flex;
 }
@@ -36,13 +37,15 @@ body {
     width: 35px;
 }
 
-#navbar {
+#navbar,
+#footer {
     width: 100%;
     height: 100px;
     background-color: #302c22;
 }
 
-#leftnav {
+#leftnav,
+#leftfooter {
     /* padding-left: 10px; */
     position: absolute;
     left: 0;
@@ -50,23 +53,29 @@ body {
     justify-content: space-evenly;
 }
 
-#rightnav {
+#rightnav,
+#rightfooter {
     /* padding-right: 10px; */
     /* display: flex;
     justify-content: flex-end; */
     position: absolute;
     right: 0;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 #rightnav ul,
-#leftnav ul {
+#leftnav ul,
+#rightfooter ul {
     list-style-type: none;
     display: flex;
     padding: 7px;
 }
 
 #rightnav ul li a,
-#leftnav ul li a {
+#leftnav ul li a,
+#rightfooter ul li,
+#leftfooter h4 {
     margin: 5px;
     padding: 10px;
     color: #b2ac82;
@@ -75,24 +84,72 @@ body {
 
 #rightnav ul li a:hover,
 #leftnav ul li a:hover,
-#leftnav ul li a svg:hover  {
+#leftnav ul li a svg:hover
+#rightfooter ul li:hover {
     list-style-type: none;
     color: #8f774b;
     fill: #8f774b;
 }
 
-#navbar h1{
-    font-family: 'Gladriel', sans-serif;
+#leftnav ul li a svg {
+    margin-top: 10px;
+}
+
+#footer #leftfooter h4 {
+    left: 50px;
+}
+
+#footer #rightfooter h4 {
+    right: 50px;
+}
+
+#navbar h1 {
     text-align: center;
-    color: #c8c69a;
-    font-size: 60px;
-    position: absolute;
     left: 470px;
     top: 10px;
+    font-size: 70px;
+}
+
+#navbar h1,
+#footer h4 {
+    font-family: 'Gladriel', sans-serif;
+    color: #c8c69a;
+    position: absolute;
     margin: 0;
 }
 
-.Slides{
+.Slides {
     width: 100%;
     height: 600px;
+}
+
+.ss-btn button {
+    background-color: #eaecef;
+    color: #8f774b;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+
+.btn-large:focus {
+    background-color: #eaecef !important;
+}
+
+.ss-btn {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 400px;
+}
+
+.ss-btn button:hover {
+    background-color: #8f774b;
+    color: #b2ac82;
+    opacity: 0.8;
+}
+
+#footer {
+    font-family: 'Gladriel', sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
