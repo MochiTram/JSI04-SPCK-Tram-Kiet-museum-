@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "King Ly Thai To",
+        "description": "The first ruler of the Ly dynasty, Ly Thai To, ascended to the throne in 1009. Known for his military prowess and diplomatic acumen, he successfully liberated Vietnam from Chinese rule, establishing the independence of the nation. Ly Thai To laid the foundation for a centralized government, promoting Confucianism as the state ideology and fostering cultural and economic growth. Under his reign, Vietnam experienced a period of stability and prosperity, laying the groundwork for the flourishing of arts, literature, and education. His legacy as a visionary leader and nation-builder remains deeply revered in Vietnamese history.",
+        "img": "img SPCK 3/lý/vua (1).jpg"
+    },
+    {
+        "id": 2,
+        "name": "King Ly Thai Tong",
+        "description": "The second ruler of the Ly dynasty, Ly Thai Tong, reigned from 1054 to 1072. He was known for his contributions to Confucian scholarship and administrative reforms. Ly Thai Tong established the Imperial Academy, promoting education and scholarship, and implemented policies to improve governance and social welfare. His reign saw advancements in literature, arts, and architecture, including the construction of iconic landmarks like the Temple of Literature in Hanoi. Despite facing internal challenges, Ly Thai Tong's reign is remembered as a period of cultural flourishing and prosperity in Vietnamese history.",
+        "img": "img SPCK 3/lý/vua (2).jpg"
+    },
+    {
+        "id": 3,
+        "name": "King Ly Nhan Tong",
+        "description": "The third ruler of the Ly dynasty, Ly Nhan Tong, reigned from 1072 to 1127. He is remembered as one of Vietnam's greatest monarchs, known for his wise governance, literary achievements, and devotion to Buddhism. Ly Nhan Tong initiated numerous reforms to improve governance, promote education, and strengthen the economy. He also played a pivotal role in spreading Buddhism throughout Vietnam, constructing temples and promoting Buddhist scholarship. Despite facing external threats, Ly Nhan Tong maintained Vietnam's sovereignty and expanded its influence in the region. His reign is often regarded as a golden age in Vietnamese history, characterized by peace, prosperity, and cultural flourishing.",
+        "img": "img SPCK 3/lý/vua (3).jpg"
+    },
+    {
+        "id": 4,
+        "name": "King Ly Can Duc",
+        "description": "The fourth ruler of the Ly dynasty, Ly Can Duc, reigned from 1128 to 1138. His reign was marked by political instability and internal conflicts, as well as external threats from neighboring kingdoms. Ly Can Duc faced challenges in maintaining control over the realm and struggled to uphold the authority of the monarchy. Despite his efforts to strengthen the military and implement administrative reforms, his reign was characterized by unrest and rebellion. Ly Can Duc's short-lived rule ultimately contributed to the decline of the Ly dynasty and paved the way for the rise of the Tran dynasty in Vietnamese history.",
+        "img": "img SPCK 3/lý/vua (4).jpg"
+    },
+    {
+        "id": 5,
+        "name": "King Ly Than Tong",
+        "description": "The fifth ruler of the Ly dynasty, Ly Than Tong, reigned from 1138 to 1158. His reign was marked by efforts to restore stability and consolidate royal power after a period of internal turmoil. Ly Than Tong implemented reforms to strengthen the central government and improve the administration of the kingdom. He also focused on promoting Confucianism and reviving cultural and educational institutions. Despite facing challenges such as rebellions and external threats, Ly Than Tong's reign saw a resurgence of Vietnamese power and influence. His efforts laid the groundwork for the continued prosperity and expansion of the Ly dynasty in the following years.",
+        "img": "img SPCK 3/lý/vua (5).jpg"
+    },
+    {
+        "id": 6,
+        "name": "King Ly Anh Tong",
+        "description": "The sixth ruler of the Ly dynasty, Ly Anh Tong, reigned from 1158 to 1175. His reign was characterized by both internal stability and external conflicts. Ly Anh Tong continued his predecessors' efforts to strengthen central governance and promote Confucian ideals. However, his reign was also marked by confrontations with neighboring kingdoms, particularly the Cham kingdom to the south. Despite facing external threats, Ly Anh Tong managed to maintain the integrity of the kingdom and defend Vietnamese sovereignty. Under his rule, Vietnam experienced periods of both prosperity and challenges, contributing to the ongoing evolution of the Ly dynasty.",
+        "img": "img SPCK 3/lý/vua (6).jpg"
+    },
+    {
+        "id": 7,
+        "name": "King Lý Cao Tông",
+        "description": "The seventh ruler of the Ly dynasty, Ly Cao Tong, reigned from 1175 to 1210. His reign was marked by a period of relative stability and prosperity. Ly Cao Tong continued the policies of his predecessors, focusing on strengthening the centralized government, promoting Confucianism, and fostering cultural and educational advancements. Under his rule, Vietnam experienced economic growth, expansion of trade, and the flourishing of arts and literature. Ly Cao Tong's reign also saw successful diplomatic relations with neighboring kingdoms, contributing to Vietnam's regional influence. Despite facing occasional internal unrest, Ly Cao Tong's leadership laid the foundation for a prosperous era in Vietnamese history.",
+        "img": "img SPCK 3/lý/vua (7).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bach Dang Battle",
+        "description": "The Battle of Bach Dang River, during the Ly dynasty, was a pivotal moment in Vietnamese history. Fought in 938 AD, it saw the Vietnamese forces, led by General Ngo Quyen, successfully repel an invasion by the Southern Han dynasty. Utilizing a brilliant strategy, the Vietnamese forces lured the enemy fleet into the narrow waters of Bach Dang River, where they had secretly planted sharp stakes. As the tide rose, the stakes pierced the enemy ships, crippling their fleet and securing a decisive victory for Vietnam. The Battle of Bach Dang River cemented Vietnamese independence and sovereignty, marking the end of over a millennium of Chinese domination and establishing Vietnam as a formidable regional power.",
+        "img": "img SPCK 3/lý/bachdang (1).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bach Dang Battle",
+        "description": "The Battle of Bach Dang River, during the Ly dynasty, was a pivotal moment in Vietnamese history. Fought in 938 AD, it saw the Vietnamese forces, led by General Ngo Quyen, successfully repel an invasion by the Southern Han dynasty. Utilizing a brilliant strategy, the Vietnamese forces lured the enemy fleet into the narrow waters of Bach Dang River, where they had secretly planted sharp stakes. As the tide rose, the stakes pierced the enemy ships, crippling their fleet and securing a decisive victory for Vietnam. The Battle of Bach Dang River cemented Vietnamese independence and sovereignty, marking the end of over a millennium of Chinese domination and establishing Vietnam as a formidable regional power.",
+        "img": "img SPCK 3/lý/bachdang (2).jpg"
+    },
+    {
+        "id": 10,
+        "name": "Capital Relocation",
+        "description": "During the Ly dynasty, the capital of Vietnam was relocated multiple times due to political and strategic considerations. One significant relocation occurred in 1010 when Emperor Ly Thai To moved the capital from Hoa Lu to Thang Long, present-day Hanoi. This move marked the beginning of Thang Long's prominence as the political and cultural center of Vietnam for centuries to come. The relocation of the capital to Thang Long facilitated economic growth, cultural exchange, and administrative reforms, contributing to the stability and prosperity of the Ly dynasty.",
+        "img": "img SPCK 3/lý/chiếu dời đô/jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tong againist",
+        "description": "During the Ly dynasty, the system of chong tong was established as a means of land distribution and taxation. Under this system, land was divided into equal portions among households, with each household responsible for paying taxes based on the amount of land they possessed. This ensured a fair distribution of resources and helped to maintain social stability. Additionally, chong tong  allowed the government to mobilize manpower and resources more effectively in times of war or crisis. While the system had its drawbacks, such as the potential for exploitation by local officials, it played a crucial role in sustaining the economy and supporting the military efforts of the Ly dynasty.",
+        "img": "img SPCK 3/lý/chongtong (1).jpg"
+    },
+    {
+        "id": 12,
+        "name": "Tong againist",
+        "description": "During the Ly dynasty, the system of chong tong was established as a means of land distribution and taxation. Under this system, land was divided into equal portions among households, with each household responsible for paying taxes based on the amount of land they possessed. This ensured a fair distribution of resources and helped to maintain social stability. Additionally, chong tong  allowed the government to mobilize manpower and resources more effectively in times of war or crisis. While the system had its drawbacks, such as the potential for exploitation by local officials, it played a crucial role in sustaining the economy and supporting the military efforts of the Ly dynasty.",
+        "img": "img SPCK 3/lý/chongtong (2).jpg"
+    },
+    {
+        "id": 13,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (1).jpg"
+    },
+    {
+        "id": 14,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (2).jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (3).jpg"
+    },
+    {
+        "id": 16,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (4).jpg"
+    },
+    {
+        "id": 17,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (5).jpg"
+    },
+    {
+        "id": 18,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (6).jpg"
+    },
+    {
+        "id": 19,
+        "name": "Ly Palace",
+        "description": "During the Ly dynasty, imperial palaces were constructed in a distinctive architectural style that blended elements of Chinese influence with indigenous Vietnamese characteristics. These palaces typically featured multi-tiered roofs with curved edges, intricate wooden carvings, and elevated platforms, reflecting the importance of hierarchy and symbolism in Vietnamese culture. The layout of the palaces often followed the principles of feng shui, with buildings positioned in harmony with the surrounding landscape to promote balance and prosperity. Within the palaces, halls and chambers were adorned with ornate decorations and imperial symbols, reflecting the wealth and power of the ruling dynasty. Despite the passage of time and the impact of wars and natural disasters, remnants of Ly dynasty palaces can still be seen in archaeological sites such as Thang Long Citadel in modern-day Hanoi, offering glimpses into Vietnam's rich architectural heritage.",
+        "img": "img SPCK 3/lý/cungdiennhaly (7).jpg"
+    },
+    {
+        "id": 20,
+        "name": "Thang Long",
+        "description": "During the Ly dynasty, Thang Long, which is now modern-day Hanoi, underwent significant development and transformation. Emperor Ly Thai To, recognizing the strategic importance of the location, decided to establish Thang Long as the capital of Vietnam in 1010. Under his reign, the city flourished as a political, economic, and cultural center. Palaces, temples, and administrative buildings were constructed, showcasing the architectural prowess of the era. Thang Long became a hub for trade, attracting merchants from neighboring regions and fostering cultural exchange. The completion of Thang Long reflected the ambition and vision of the Ly dynasty, solidifying its legacy as a period of prosperity and cultural advancement in Vietnamese history.",
+        "img": "img SPCK 3/lý/HTTL.jpg"
+    }
+]
