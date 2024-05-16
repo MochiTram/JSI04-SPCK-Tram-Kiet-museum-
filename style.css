@@ -78,3 +78,70 @@ body {
     margin: 0 auto;
     overflow: hidden;
 }
+.diag img{
+    width: 250px;
+    height: 300px;
+    margin: 5% 10px;
+}
+
+
+#diag1 {
+    animation: dkTFXd 120s linear 0s infinite normal none running ;
+}
+@-webkit-keyframes dkTFXd {
+    0% {
+        transform: translateY(-50%);    }
+    100% {
+        transform: translateY(0%);    }
+}
+@keyframes dkTFXd {
+    0% {
+        top:0px;
+    }
+    100% {
+        top: 500px;
+    }
+}
+#diag3 {
+    position: relative;
+    -webkit-animation: floatBubble2 3s infinite  normal ease-out;
+    animation: floatBubble2 3s infinite  normal ease-out;
+}
+@-webkit-keyframes floatBubble2 {
+    0% {
+        top:0px;
+    }
+    100% {
+        top: 500px;
+    }
+}
+@keyframes floatBubble2 {
+    0% {
+        top:0px;
+    }
+    100% {
+        top: 500px;
+    }
+}
+
+#diag2 {
+    position: relative;
+    -webkit-animation: floatBubble3 3s infinite  normal ease-out;
+    animation: floatBubble 3s infinite  normal ease-out;
+}
+@-webkit-keyframes floatBubble3 {
+    0% {
+        top: 500px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+@keyframes floatBubble3 {
+    0% {
+        top: 500px;
+    }
+    100% {
+        top: 0px;
+    }
+}

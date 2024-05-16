@@ -1,3 +1,4 @@
+
 const firebaseConfig = {
     apiKey: "AIzaSyDjUMtdBLUnFew8vzJAXhtmcUmkev4ImBg",
     authDomain: "museum-f7eb6.firebaseapp.com",
@@ -50,8 +51,18 @@ function register() {
 }
 
 function login(){
-
-    
+    let email = document.getElementById('reg-email').value
+    let password = document.getElementById('reg-pw').value
+    firebase.auth().signInWithEmailAndPassword(email, password)
+    .then((userCredential) => {
+      // Signed in
+      var user = userCredential.user;
+      alert('Login successfully')
+    })
+    .catch((error) => {
+      var errorCode = error.code;
+      var errorMessage = error.message;
+    });
 }
 // Function kiểm tra email
 function validateEmail(email) {
