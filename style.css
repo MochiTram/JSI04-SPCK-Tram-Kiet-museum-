@@ -25,7 +25,8 @@ body {
     width: 90%;
 }
 
-#navbar {
+#navbar,
+#footer {
     height: 50px;
     display: flex;
 }
@@ -36,13 +37,15 @@ body {
     width: 35px;
 }
 
-#navbar {
+#navbar,
+#footer {
     width: 100%;
     height: 100px;
-    background-color: #213555;
+    background-color: #302c22;
 }
 
-#leftnav {
+#leftnav,
+#leftfooter {
     /* padding-left: 10px; */
     position: absolute;
     left: 0;
@@ -50,24 +53,42 @@ body {
     justify-content: space-evenly;
 }
 
-#rightnav {
+#rightnav,
+#rightfooter {
     /* padding-right: 10px; */
     /* display: flex;
     justify-content: flex-end; */
     position: absolute;
     right: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#rightnav ul,
+#leftnav ul,
+#rightfooter ul {
+    list-style-type: none;
+    display: flex;
+    padding: 7px;
 }
 
 #rightnav ul li a,
-#leftnav ul li a {
-    list-style-type: none;
-    color: #D8C4B6;
+#leftnav ul li a,
+#rightfooter ul li,
+#leftfooter h4 {
+    margin: 5px;
+    padding: 10px;
+    color: #b2ac82;
+    font-size: 35px;
 }
 
 #rightnav ul li a:hover,
-#leftnav ul li a:hover {
+#leftnav ul li a:hover,
+#leftnav ul li a svg:hover
+#rightfooter ul li:hover {
     list-style-type: none;
-    color: #A79277;
+    color: #8f774b;
+    fill: #8f774b;
 }
 /* SLIDESHOW */
 .slideshow {
@@ -77,71 +98,4 @@ body {
     height: 800px;
     margin: 0 auto;
     overflow: hidden;
-}
-.diag img{
-    width: 250px;
-    height: 300px;
-    margin: 5% 10px;
-}
-
-
-#diag1 {
-    animation: dkTFXd 120s linear 0s infinite normal none running ;
-}
-@-webkit-keyframes dkTFXd {
-    0% {
-        transform: translateY(-50%);    }
-    100% {
-        transform: translateY(0%);    }
-}
-@keyframes dkTFXd {
-    0% {
-        top:0px;
-    }
-    100% {
-        top: 500px;
-    }
-}
-#diag3 {
-    position: relative;
-    -webkit-animation: floatBubble2 3s infinite  normal ease-out;
-    animation: floatBubble2 3s infinite  normal ease-out;
-}
-@-webkit-keyframes floatBubble2 {
-    0% {
-        top:0px;
-    }
-    100% {
-        top: 500px;
-    }
-}
-@keyframes floatBubble2 {
-    0% {
-        top:0px;
-    }
-    100% {
-        top: 500px;
-    }
-}
-
-#diag2 {
-    position: relative;
-    -webkit-animation: floatBubble3 3s infinite  normal ease-out;
-    animation: floatBubble 3s infinite  normal ease-out;
-}
-@-webkit-keyframes floatBubble3 {
-    0% {
-        top: 500px;
-    }
-    100% {
-        top: 0px;
-    }
-}
-@keyframes floatBubble3 {
-    0% {
-        top: 500px;
-    }
-    100% {
-        top: 0px;
-    }
 }
