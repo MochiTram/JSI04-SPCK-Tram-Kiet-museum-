@@ -31,6 +31,11 @@ body {
     display: flex;
 }
 
+#navbar {
+    position: fixed;
+    z-index: 999;
+}
+
 
 
 #right-area img {
@@ -85,7 +90,7 @@ body {
 #leftnav ul li a,
 #rightfooter ul li,
 #leftfooter h4 {
-    margin: 5px;
+    margin: 10px;
     padding: 10px;
     color: #b2ac82;
     font-size: 35px;
@@ -98,18 +103,24 @@ body {
     color: #8f774b;
     fill: #8f774b;
 }
+
 /* SLIDESHOW */
 .slideshow {
     display: block;
     position: relative;
     width: 100%;
-    height: 800px;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
 }
 
 #leftnav ul li a svg {
     margin-top: 10px;
+}
+
+#footer img{
+    fill: #b2ac82 !important;
+    margin-top: -5px;
 }
 
 #footer #leftfooter h4 {
@@ -170,3 +181,192 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+#post-img {
+    height: 700px;
+    width: 600px;
+}
+
+.post {
+    height: 1200px;
+    width: 100%;
+    display: flex;
+    font-family: 'Athena', sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    display: flex;
+}
+
+.post h1 {
+    font-family: 'Gladriel', sans-serif;
+    font-size: 50px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.theme {
+    height: 900px;
+    margin: 10px;
+    font-weight: 500;
+    border-radius: 20px;
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+
+.theme img {
+    border-radius: 10px;
+    margin-top: 30px;
+    padding-top: 30px;
+    height: 600px;
+    width: 90%;  
+}
+
+.theme img:hover {
+    animation-name: imgchange;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+.theme img:not(hover) {
+    animation-name: imgchange2;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes imgchange {
+    from {
+        scale: 1.0;
+        opacity: 80%;
+    }
+
+    to {
+        scale: 1.1;
+        opacity: 100%;
+    }
+}
+
+@keyframes imgchange2 {
+    from {
+        scale: 1.1;
+        opacity: 100%;
+    }
+
+    to {
+        scale: 1.0;
+        opacity: 80%;
+    }
+}
+
+/* .card-body {
+    height: 200px;
+    width: 90%;
+} */
+
+.card-title {
+    font-family: 'Athena', sans-serif;
+    font-size: 60px;
+    color: #302c22;
+}
+
+/* style shorten p */
+.card-text {
+    -webkit-box-orient: vertical;
+    /* number of dòng */
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    overflow: hidden;
+    width: 100%;
+    /* style cho đều chữ k bị tràn/thiếu */
+    text-align: justify;
+}
+
+.btn {
+    background-color: #302c22;
+    border: none;
+    color: #b2ac82;
+    font-size: 25px;
+}
+
+.btn:hover {
+    background-color: #8f774b;
+}
+
+.btn:focus {
+    background-color: #8f774b !important;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    color: #555;
+ }
+ h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+ }
+ .products{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+    grid-gap: 50px;
+    margin: 50px auto;
+    max-width: 1240px;
+    padding: 20px;
+ }
+ .product{
+    padding: 10px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+ }
+ .product img{
+    width: 100%;
+    display: block;
+ }
+ .product .title{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+ }
+ .product .description{
+    padding: 0 20px 20px 20px;
+    line-height: 22px;
+ }
+ .product .price{
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #9b0b03;
+    padding-top: 30px;
+    font-family: sans-serif;
+    text-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+    transform: rotate(-45deg);
+ }
+ .product .cart{
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    background-color: #3e628f;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+ }
+ .product .cart i{
+    padding-left: 10px;
+ }
+ .view-more{
+    margin: 0 auto;
+    max-width: 1240px;
+    padding: 20px;
+    text-align: center;
+ }
+ .view-more button{
+    padding: 10px 25px;
+ }
