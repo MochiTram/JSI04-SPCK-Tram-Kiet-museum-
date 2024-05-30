@@ -264,6 +264,11 @@ body {
     width: 90%;
 } */
 
+.card-body {
+    height: 200px;
+    width: 90%;
+}
+
 .card-title {
     font-family: 'Athena', sans-serif;
     font-size: 60px;
@@ -370,3 +375,4 @@ body {
  .view-more button{
     padding: 10px 25px;
  }
+
