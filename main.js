@@ -32,5 +32,24 @@ function carousel() {
     myIndex++;
     if (myIndex > x.length) { myIndex = 1 }
     x[myIndex - 1].style.display = "block";
-    setTimeout(carousel, 10000); // Change image every 10 seconds
+    setTimeout(carousel, 5000); // Change image every 5 seconds
 }
+
+
+// async function getData() {
+//     const res = await fetch('./data.json')
+//     // The return value is *not* serialized
+//     // You can return Date, Map, Set, etc.
+   
+//     if (!res.ok) {
+//       // This will activate the closest `error.js` Error Boundary
+//       throw new Error('Failed to fetch data')
+//     }
+   
+//     return res.json()
+//   }
+   
+// export default async function Page() {
+//     const data = await getData()}
+
+// console.log(data)
